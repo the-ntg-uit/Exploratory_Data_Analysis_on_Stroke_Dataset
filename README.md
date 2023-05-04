@@ -1,1 +1,1 @@
-# Exploratory_Data_Analysis_on_Stroke_Dataset
+# Exploratory Data Analysis on Stroke Dataset
